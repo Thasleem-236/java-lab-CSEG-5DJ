@@ -42,4 +42,4 @@ class Quadraticequation{
 
 ```
 ## Output:
-![Output 1b]()
+![Output 1b](https://github.com/Thasleem-236/java-lab-CSEG-5DJ/blob/68b729eba8ce22e56e83a8bb68194e9a1376cbf5/Screenshot%202026-03-11%20195211.png)
