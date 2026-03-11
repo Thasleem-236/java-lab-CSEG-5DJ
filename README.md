@@ -21,4 +21,4 @@ class main{
 
 ```
 ## Output:
-![Output 2a]()
+![Output 2a](https://github.com/Thasleem-236/java-lab-CSEG-5DJ/blob/32fe6e3d97fb66d85e48da014b147efbfa32c193/2a.png)
