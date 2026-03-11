@@ -25,3 +25,5 @@ class DefaultPrimitiveType {
     }
 }
 ```
+## Output:
+![Output 1a](
