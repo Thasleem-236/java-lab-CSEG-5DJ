@@ -27,4 +27,4 @@ class stdmain{
 
 ```
 ## Output:
-![Output 2c]()
+![Output 2c](https://github.com/Thasleem-236/java-lab-CSEG-5DJ/blob/14e654d5c77085e94f5f01f11ee798a2334c5259/2c.png)
