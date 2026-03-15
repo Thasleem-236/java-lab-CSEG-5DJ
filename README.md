@@ -1,24 +1,28 @@
 # java-lab-CSEG-5DJ
 experiments
 ## Experiment 2
-## Title:2a(implement class mechanism)
+## Title:2b(implement overloading)
 ```
-
-class myclass{
-        void displaymessage(){
-                System.out.println("hello world");
+class overload{
+        int add(int a,int b){
+                return a+b;
                 }
-class main{
-         public static void main(String args[]){
-                myclass my=new myclass();
-                my.displaymessage();
+        double add(double a,double b){
+                return a+b;
+                }
+        int add(int a,int b,int c){
+                return a+b+c;
+                }
+        }
+class overmain{
+        public static void main(String args[]){
+                overload over=new overload();
+                System.out.println("add of:"+over.add(5,2));
+                System.out.println("add of:"+over.add(10.2,2.1));
+                System.out.println("add of:"+over.add(5,2,6));
                 }
         }
 
-
-
-
-
 ```
 ## Output:
-![Output 2a](https://github.com/Thasleem-236/java-lab-CSEG-5DJ/blob/32fe6e3d97fb66d85e48da014b147efbfa32c193/2a.png)
+![Output 2b]()
