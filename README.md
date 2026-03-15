@@ -25,4 +25,4 @@ class overmain{
 
 ```
 ## Output:
-![Output 2b]()
+![Output 2b](https://github.com/Thasleem-236/java-lab-CSEG-5DJ/blob/908f1667884ff0d602c72c4ca087b373441792ef/2b.png)
