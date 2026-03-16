@@ -618,7 +618,7 @@ class BuiltInException {
 }
 ```
 ## Output:
-![Output 6c]()
+![Output 6c](https://github.com/Thasleem-236/java-lab-CSEG-5DJ/blob/8aaea8c1a5c3d4afababecc77a67d4c80cc7b5a5/6c.png)
 
 
 
