@@ -34,4 +34,4 @@ class main{
 
 ```
 ## Output:
-![Output 3a]()
+![Output 3a](https://github.com/Thasleem-236/java-lab-CSEG-5DJ/blob/06a60f7cb4583bf64d32add08a34ecdf30d7c855/3a.png)
