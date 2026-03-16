@@ -582,7 +582,7 @@ class MultipleCatchDemo {
     }
 ```
 ## Output:
-![Output 6b]()
+![Output 6b](https://github.com/Thasleem-236/java-lab-CSEG-5DJ/blob/976d91f2ac765422fd579db81017d35084db85a2/6b.png)
 ## Title:6c(implementing java built-in exception)
 ```
 import java.util.Scanner;
