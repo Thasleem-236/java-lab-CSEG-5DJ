@@ -500,7 +500,7 @@ class TestVehicle{
 }
 ```
 ## Output:
-![Output 5b]()
+![Output 5b](https://github.com/Thasleem-236/java-lab-CSEG-5DJ/blob/71e1c8cb60868143c17d53fbc4fa083752e3e9ff/5b.png)
 ## Title:5c(implement stringbuffer)
 ```
 class Deletechar{
