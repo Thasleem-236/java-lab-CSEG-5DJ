@@ -654,7 +654,7 @@ class UserRegion {
     }
 }
 ```
-![Output 7a]()
+![Output 7a](https://github.com/Thasleem-236/java-lab-CSEG-5DJ/blob/a8f2149ca02503a802791499cd1778eb4ef6bf8a/7a.png)
 ## Title:7b(creating threads by extending thread class)
 ```
 class GoodMorningThread extends Thread {
