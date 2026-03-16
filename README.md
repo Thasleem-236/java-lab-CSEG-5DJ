@@ -881,7 +881,7 @@ public class ProducerConsumerDemo {
     }
 }
 ```
-![Output 8b]()
+![Output 8b](https://github.com/Thasleem-236/java-lab-CSEG-5DJ/blob/a385e5c7c2c3faaef35d33beb18dab6e42a4a529/8b.png)
 ## Title:8c(packages)
 ```
 package arithmetic;
