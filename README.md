@@ -86,7 +86,7 @@ class main{
 ![Output 2a](https://github.com/Thasleem-236/java-lab-CSEG-5DJ/blob/1458fe1563e9900ed3c8af08cba939c01312bed9/2a.png)
 ## Title:2b(implement method overloading)
 ```
-class sum{
+class overload{
   int sum(int a ,int b){
     return a+b;
   }
@@ -97,7 +97,7 @@ class sum{
    return a+b;
   }
 }
-class main{
+class overmain{
  public static void main(String args[]){
    sum s= new sum();
    System.out.println("sum of 2 integers:"+s.sum(20,16));
@@ -107,7 +107,7 @@ class main{
 }
 ```
 ## Output:
-![Output 2b]()
+![Output 2b](https://github.com/Thasleem-236/java-lab-CSEG-5DJ/blob/fca2c7589ef40c3c1abd374eea534a06f86c2c38/2b.png)
 
 
 
