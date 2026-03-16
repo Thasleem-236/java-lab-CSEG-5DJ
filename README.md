@@ -361,7 +361,7 @@ public class TestVehicle {
 }
 ```
 ## Output:
-![Output 4b]()
+![Output 4b](https://github.com/Thasleem-236/java-lab-CSEG-5DJ/blob/d474aee9169aea1c96061189ed3551a16047b670/4b.png)
 ## Title:4c(implement abstract class)
 ```
 abstract class Figure {
