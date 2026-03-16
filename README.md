@@ -316,7 +316,7 @@ public class TestEmployee {
 }
 ```
 ## Output:
-![Output 4a]()
+![Output 4a](https://github.com/Thasleem-236/java-lab-CSEG-5DJ/blob/460a2d1aa63b4e3d7640451df974544ba7fa2c71/4a.png)
 ## Title:4b(implement multiple level Inheritance)
 ```
 class Bicycle {
