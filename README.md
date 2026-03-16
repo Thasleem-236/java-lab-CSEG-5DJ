@@ -1,7 +1,7 @@
 # java-lab-CSEG-5DJ
 experiments
 ## experiment 1
-## Title:3a(default primdatatypes)
+## Title:1a(default primdatatypes)
 ```
 class DefaultPrimitiveType {
     byte primbyte;
@@ -26,7 +26,7 @@ class DefaultPrimitiveType {
 }
 ```
 ## Output:
-![Output 1a]()
+![Output 1a](https://github.com/Thasleem-236/java-lab-CSEG-5DJ/blob/a4043e365ccc6161c5483a2cb955b132112e8fb6/1a.png)
 
 
 ## Experiment 3
