@@ -65,7 +65,7 @@ class Quadraticequation{
    }
 ```
 ## Output:
-![Output 1b]()
+![Output 1b](https://github.com/Thasleem-236/java-lab-CSEG-5DJ/blob/50ccf13769df89807b6314c80c3985cfc4e26c64/1b.png)
 ## Experiment 3
 ## Title:3a(implement constructoroverload)
 ```
