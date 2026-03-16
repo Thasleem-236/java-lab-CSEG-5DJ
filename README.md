@@ -269,7 +269,7 @@ class Main {
 }
 ```
 ## Output:
-![Output 3c]()
+![Output 3c](https://github.com/Thasleem-236/java-lab-CSEG-5DJ/blob/a17d4f34396204ea7761c1b0f3769c1f65f166fb/3c.png)
 
 
 
