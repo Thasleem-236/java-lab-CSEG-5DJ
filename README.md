@@ -133,7 +133,7 @@ class main{
 }
 ```
 ## Output:
-![Output 2c]()
+![Output 2c](https://github.com/Thasleem-236/java-lab-CSEG-5DJ/blob/0d77ef38a4c7d5470b1ba48e9eba9d3ccb1ce858/2c.png)
 
 
 
