@@ -84,6 +84,30 @@ class main{
 ```
 ## Output:
 ![Output 2a](https://github.com/Thasleem-236/java-lab-CSEG-5DJ/blob/1458fe1563e9900ed3c8af08cba939c01312bed9/2a.png)
+## Title:2b(implement method overloading)
+```
+class sum{
+  int sum(int a ,int b){
+    return a+b;
+  }
+  int sum(int a ,int b,int c){
+  return a+b+c;
+  }
+  double sum(double a ,double b){
+   return a+b;
+  }
+}
+class main{
+ public static void main(String args[]){
+   sum s= new sum();
+   System.out.println("sum of 2 integers:"+s.sum(20,16));
+   System.out.println("sum of 3 integers:"+s.sum(20,16,17));
+   System.out.println("sum of two real numbers:"+s.sum(30.465,15.675));
+  }
+}
+```
+## Output:
+![Output 2b]()
 
 
 
