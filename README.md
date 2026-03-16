@@ -1,8 +1,8 @@
 # java-lab-CSEG-5DJ
 experiments
-#experiment 1
-## TITLE : 1a.) DISPLAY PRIMITIVE DATA TYPES
-
+## experiment 1
+## Title:3a(default primdatatypes)
+```
 class DefaultPrimitiveType {
     byte primbyte;
     short primshort;
@@ -23,10 +23,11 @@ class DefaultPrimitiveType {
         System.out.println("default value of long:" + dDpt.primlong);
         System.out.println("default value of boolean:" + dDpt.primboolean);
     }
-  }
+}
+```
+## Output:
+![Output 1a]()
 
-### output:
-![output for DefaultPrimitiveType]()
 
 ## Experiment 3
 ## Title:3a(implement constructoroverload)
