@@ -406,7 +406,7 @@ public class TestFigure {
 }
 ```
 ## Output:
-![Output 4c]()
+![Output 4c](https://github.com/Thasleem-236/java-lab-CSEG-5DJ/blob/026237bc3660c38ff59973b51cbbd8fddb03b917/4c.png)
 ## expriment 5
 ## Title:5a(implement intrface)
 ```
