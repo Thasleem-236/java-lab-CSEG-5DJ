@@ -925,7 +925,7 @@ class Calculate {
     }
 }
 ```
-![Output 8c]()
+![Output 8c](https://github.com/Thasleem-236/java-lab-CSEG-5DJ/blob/a8e4408a97a48223ecfb87dd68524a508acb4041/8c.png)
 
 
 
