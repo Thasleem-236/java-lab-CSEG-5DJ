@@ -469,7 +469,7 @@ class Testsort {
 }
 ```
 ## Output:
-![Output 5a]()
+![Output 5a](https://github.com/Thasleem-236/java-lab-CSEG-5DJ/blob/50738e08f694fd2e31747067f47002c9cdb1890f/5a.png)
 ## Title:5b(implement polymorphism)
 ```
 class Vehicle{
