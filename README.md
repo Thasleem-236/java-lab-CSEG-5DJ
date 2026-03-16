@@ -99,10 +99,10 @@ class overload{
 }
 class overmain{
  public static void main(String args[]){
-   sum s= new sum();
-   System.out.println("sum of 2 integers:"+s.sum(20,16));
-   System.out.println("sum of 3 integers:"+s.sum(20,16,17));
-   System.out.println("sum of two real numbers:"+s.sum(30.465,15.675));
+   overload over= new overload();
+   System.out.println("sum of 2 integers:"+over.sum(5,2));
+   System.out.println("sum of 3 integers:"+over.sum(5,2,6));
+   System.out.println("sum of two real numbers:"+over.sum(10.2,2.1));
   }
 }
 ```
