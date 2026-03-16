@@ -516,7 +516,7 @@ class Deletechar{
 }
 ```
 ## Output:
-![Output 5c]()
+![Output 5c](https://github.com/Thasleem-236/java-lab-CSEG-5DJ/blob/c8dd7ef8eb0347cbc5beb13d55a3c2965dd88cb7/5c.png)
 ## Experiment 6
 ## Title:6a(implement exception handling)
 ```
