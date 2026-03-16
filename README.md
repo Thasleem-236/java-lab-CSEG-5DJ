@@ -789,7 +789,7 @@ class TestDaemon{
          }
 }
 ```
-![Output 8a]()
+![Output 8a](https://github.com/Thasleem-236/java-lab-CSEG-5DJ/blob/725a362a5cbf0e5f1b201eeeb0114737cfc2dac4/8a.png)
 ## Title:8b(ProducerConsumer Problem)
 ```
 class Buffer {
