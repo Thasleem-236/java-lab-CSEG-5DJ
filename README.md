@@ -543,7 +543,7 @@ class ArrayIndexExceptionDemo {
 }
 ```
 ## Output:
-![Output 6a]()
+![Output 6a](https://github.com/Thasleem-236/java-lab-CSEG-5DJ/blob/e36c1836d828ee375830644020cddeaebaf51503/6a.png)
 ## Title:6b(implement multiple catch blocks)
 ```
 import java.util.Scanner;
