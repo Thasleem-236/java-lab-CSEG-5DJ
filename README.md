@@ -749,7 +749,7 @@ public class ThreadDemo {
     }
 }
 ```
-![Output 7c]()
+![Output 7c](https://github.com/Thasleem-236/java-lab-CSEG-5DJ/blob/57550ea90f3e40eee108c804d5fcbe7761ee5a09/7c.png)
 ## Experiment 8
 ## Title:8a(Deamon Threads)
 ```
