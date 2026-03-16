@@ -232,5 +232,45 @@ class Main {
 ```
 ## Output:
 ![Output 3b](https://github.com/Thasleem-236/java-lab-CSEG-5DJ/blob/53c771bacc366f22cb691bc5c42ffd235c7b3434/3b.png)
+## Title:3c(implement bubblesort)
+```
+class BubbleSort {
+    BubbleSort(int arr[]) {
+        int n = arr.length;
+        for (int i = 0; i < n - 1; i++) {
+            for (int j = 0; j < n - i - 1; j++) {
+                if (arr[j] > arr[j + 1]) {
+                    int temp = arr[j];
+                    arr[j] = arr[j + 1];
+                    arr[j + 1] = temp;
+                }
+
+            }
+        }
+    }
+}
+import java.util.Scanner;
+class Main {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Enter size of array:");
+        int n = sc.nextInt();
+        int arr[] = new int[n];
+        System.out.println("Enter elements:");
+        for (int i = 0; i < n; i++) {
+            arr[i] = sc.nextInt();
+        }
+        new BubbleSort(arr);
+        System.out.println("Sorted array:");
+        for (int i = 0; i < n; i++) {
+            System.out.print(arr[i] + " ");
+        }
+    }
+}
+```
+## Output:
+![Output 3c]()
+
+
 
 
