@@ -108,6 +108,37 @@ class overmain{
 ```
 ## Output:
 ![Output 2b](https://github.com/Thasleem-236/java-lab-CSEG-5DJ/blob/fca2c7589ef40c3c1abd374eea534a06f86c2c38/2b.png)
+## Title:2c(implement constructor)
+```
+class student{
+ String sname;
+ int sage;
+ double smarks;
+ student(String name,int age,double marks){
+   sname=name;
+   sage=age;
+   smarks=marks;
+  }
+ void display(){
+  System.out.println("student name is :"+sname);
+  System.out.println("student age is :"+sage);
+  System.out.println("stduent marks is:"+smarks);
+  }
+}
+class main{
+ public static void main(String args[]){
+  student std= new student("sree",12,960);
+  std.display();
+  }
+}
+```
+## Output:
+![Output 2c]()
+
+
+
+
+
 
 
 
