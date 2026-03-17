@@ -649,7 +649,7 @@ class PalindromeCheck
 }
 ```
 ## Output:
-![Output add-3]()
+![Output add-3](https://github.com/Thasleem-236/java-lab-CSEG-5DJ/blob/3b5bf0363f2732c1deca76c72a03d7b08555348b/add3.png)
 
 
 
