@@ -1109,7 +1109,7 @@ class Person extends Thread {
    }
 }
 ```
-![Output 11]()
+![Output 11](https://github.com/Thasleem-236/java-lab-CSEG-5DJ/blob/922f600d0ff26d99a1a97c62e3b072114ee2c9e4/11.png)
 
 
 
