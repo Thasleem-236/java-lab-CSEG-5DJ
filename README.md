@@ -329,7 +329,7 @@ class main{
 }
 ```
 ## Output:
-![Output add2]()
+![Output add2](https://github.com/Thasleem-236/java-lab-CSEG-5DJ/blob/ef3dd3d67a6149543a99a1df883438cb0563893a/add-fib.png)
 
 ## Experiment 4
 ## Title:4a(implement single Inheritance)
