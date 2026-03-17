@@ -614,6 +614,45 @@ class InsertSubstring {
 ```
 ## Output:
 ![Output add-1](https://github.com/Thasleem-236/java-lab-CSEG-5DJ/blob/663534a2572ad6dcfe7289b79a9694c1153a2a92/add-1.png)
+## Title:additional-3(palindrome)
+```
+import java.util.Scanner;
+
+class PalindromeCheck
+{
+    public static void main(String args[])
+    {
+        Scanner sc = new Scanner(System.in);
+
+        System.out.println("Enter a string:");
+        String str = sc.nextLine();
+
+        int start = 0;
+        int end = str.length() - 1;
+
+        while(start < end)
+        {
+            if(str.charAt(start) != str.charAt(end))
+            {
+                System.out.println("The string \"" + str + "\" is not a palindrome");
+                sc.close();
+                return;
+            }
+
+            start++;
+            end--;
+        }
+
+        System.out.println("The string \"" + str + "\" is a palindrome");
+        sc.close();
+    }
+}
+```
+## Output:
+![Output add-3]()
+
+
+
 
 ## Experiment 6
 ## Title:6a(implement exception handling)
