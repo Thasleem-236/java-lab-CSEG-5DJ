@@ -615,7 +615,6 @@ class InsertSubstring {
 ## Output:
 ![Output add-1]()
 
-
 ## Experiment 6
 ## Title:6a(implement exception handling)
 ```
