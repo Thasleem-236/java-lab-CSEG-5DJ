@@ -578,6 +578,44 @@ class Deletechar{
 ```
 ## Output:
 ![Output 5c](https://github.com/Thasleem-236/java-lab-CSEG-5DJ/blob/c8dd7ef8eb0347cbc5beb13d55a3c2965dd88cb7/5c.png)
+## Title:additional-1(inserting substring into mainstring)
+```
+import java.util.Scanner;
+
+class InsertSubstring {
+    public static void main(String args[]) {
+
+        Scanner sc = new Scanner(System.in);
+
+        System.out.println("Enter a string:");
+        String mainString = sc.nextLine();
+
+        System.out.println("Substring:");
+        String subString = sc.nextLine();
+
+        System.out.println("Position:");
+        int position = sc.nextInt();
+
+        if (position < 0 || position > mainString.length()) {
+            System.out.println("Invalid position");
+        } 
+        else {
+            String firstpart = mainString.substring(0, position);
+            String secondpart = mainString.substring(position);
+
+            String resultstring = firstpart + subString + secondpart;
+
+            System.out.println("The resultant string = " + resultstring);
+        }
+
+        sc.close();
+    }
+}
+```
+## Output:
+![Output add-1]()
+
+
 ## Experiment 6
 ## Title:6a(implement exception handling)
 ```
