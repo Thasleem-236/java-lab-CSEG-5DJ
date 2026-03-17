@@ -613,7 +613,7 @@ class InsertSubstring {
 }
 ```
 ## Output:
-![Output add-1]()
+![Output add-1](https://github.com/Thasleem-236/java-lab-CSEG-5DJ/blob/663534a2572ad6dcfe7289b79a9694c1153a2a92/add-1.png)
 
 ## Experiment 6
 ## Title:6a(implement exception handling)
